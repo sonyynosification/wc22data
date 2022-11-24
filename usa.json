@@ -1,0 +1,263 @@
+{
+    "players": [
+        {
+            "number": "1",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/425306-1618135024.jpg?lm=1",
+            "name": "Matt Turner",
+            "dob": "1994-6-24",
+            "club": "Arsenal FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/11.png?lm=1489787850",
+            "height": "191",
+            "role": "Goalkeeper"
+        },
+        {
+            "number": "25",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/126630-1618691914.jpg?lm=1",
+            "name": "Sean Johnson",
+            "dob": "1989-5-31",
+            "club": "New York City FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/40058.png?lm=1479542096",
+            "height": "190",
+            "role": "Goalkeeper"
+        },
+        {
+            "number": "12",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/242284-1608457892.jpg?lm=1",
+            "name": "Ethan Horvath",
+            "dob": "1995-6-9",
+            "club": "Luton Town",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/1031.png?lm=1457723228",
+            "height": "195",
+            "role": "Goalkeeper"
+        },
+        {
+            "number": "20",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/341049-1654888707.jpg?lm=1",
+            "name": "Cameron Carter-Vickers",
+            "dob": "1997-12-31",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/371.png?lm=1403615766",
+            "height": "183",
+            "role": "Centre-Back"
+        },
+        {
+            "number": "3",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/245337-1646130087.jpg?lm=1",
+            "name": "Walker Zimmerman",
+            "dob": "1993-5-19",
+            "club": "Nashville SC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/63966.png?lm=1550768787",
+            "height": "190",
+            "role": "Centre-Back"
+        },
+        {
+            "number": "15",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/271072-1646141155.JPG?lm=1",
+            "name": "Aaron Long",
+            "dob": "1992-10-12",
+            "club": "New York Red Bulls",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/623.png?lm=1464530064",
+            "height": "186",
+            "role": "Centre-Back"
+        },
+        {
+            "number": "13",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/145466-1628697630.jpg?lm=1",
+            "name": "Tim Ream",
+            "dob": "1987-10-5",
+            "club": "Fulham FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/931.png?lm=1556831687",
+            "height": "186",
+            "role": "Centre-Back"
+        },
+        {
+            "number": "5",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/349701-1536047233.jpg?lm=1",
+            "name": "Antonee Robinson",
+            "dob": "1997-8-8",
+            "club": "Fulham FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/931.png?lm=1556831687",
+            "height": "183",
+            "role": "Left-Back"
+        },
+        {
+            "number": "2",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/361104-1581956984.jpg?lm=1",
+            "name": "Sergiño Dest",
+            "dob": "2000-11-3",
+            "club": "AC Milan",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/5.png?lm=1605166627",
+            "height": "171",
+            "role": "Right-Back"
+        },
+        {
+            "number": "26",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/504153-1662965954.jpg?lm=1",
+            "name": "Joe Scally",
+            "dob": "2002-12-31",
+            "club": "Borussia Mönchengladbach",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/18.png?lm=1656585796",
+            "height": "184",
+            "role": "Right-Back"
+        },
+        {
+            "number": "22",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/255916-1647683071.jpg?lm=1",
+            "name": "DeAndre Yedlin",
+            "dob": "1993-7-9",
+            "club": "Inter Miami CF",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/69261.png?lm=1573561237",
+            "height": "173",
+            "role": "Right-Back"
+        },
+        {
+            "number": "18",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/336168-1658665728.jpg?lm=1",
+            "name": "Shaq Moore",
+            "dob": "1996-11-2",
+            "club": "Nashville SC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/63966.png?lm=1550768787",
+            "height": "180",
+            "role": "Right-Back"
+        },
+        {
+            "number": "4",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/332705-1666472142.jpg?lm=1",
+            "name": "Tyler Adams",
+            "dob": "1999-2-14",
+            "club": "Leeds United",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/399.png?lm=1645652224",
+            "height": "175",
+            "role": "Defensive Midfield"
+        },
+        {
+            "number": "23",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/189895-1646503608.jpg?lm=1",
+            "name": "Kellyn Acosta",
+            "dob": "1995-7-24",
+            "club": "Los Angeles FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/51828.png?lm=1511112738",
+            "height": "177",
+            "role": "Defensive Midfield"
+        },
+        {
+            "number": "8",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/332697-1642687384.jpg?lm=1",
+            "name": "Weston McKennie",
+            "dob": "1998-8-28",
+            "club": "Juventus FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/506.png?lm=1626441487",
+            "height": "185",
+            "role": "Central Midfield"
+        },
+        {
+            "number": "6",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/503991-1648455970.jpg?lm=1",
+            "name": "Yunus Musah",
+            "dob": "2002-11-29",
+            "club": "Valencia CF",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/1049.png?lm=1406966320",
+            "height": "178",
+            "role": "Central Midfield"
+        },
+        {
+            "number": "17",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/354792-1647635907.jpg?lm=1",
+            "name": "Cristian Roldán",
+            "dob": "1995-6-3",
+            "club": "Seattle Sounders FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/9636.png?lm=1458928136",
+            "height": "173",
+            "role": "Central Midfield"
+        },
+        {
+            "number": "14",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/315762-1657208727.jpg?lm=1",
+            "name": "Luca de la Torre",
+            "dob": "1998-5-23",
+            "club": "Celta de Vigo",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/940.png?lm=1406966406",
+            "height": "177",
+            "role": "Central Midfield"
+        },
+        {
+            "number": "7",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/504215-1636537626.jpg?lm=1",
+            "name": "Giovanni Reyna",
+            "dob": "2002-11-13",
+            "club": "Borussia Dortmund",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/16.png?lm=1396275280",
+            "height": "185",
+            "role": "Attacking Midfield"
+        },
+        {
+            "number": "11",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/393323-1583780617.JPG?lm=1",
+            "name": "Brenden Aaronson",
+            "dob": "2000-10-22",
+            "club": "Leeds United",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/399.png?lm=1645652224",
+            "height": "177",
+            "role": "Attacking Midfield"
+        },
+        {
+            "number": "16",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/337807-1647636174.jpg?lm=1",
+            "name": "Jordan Morris",
+            "dob": "1994-10-26",
+            "club": "Seattle Sounders FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/9636.png?lm=1458928136",
+            "height": "181",
+            "role": "Left Winger"
+        },
+        {
+            "number": "10",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/315779-1638811757.jpg?lm=1",
+            "name": "Christian Pulisic",
+            "dob": "1998-9-18",
+            "club": "Chelsea FC",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/631.png?lm=1628160548",
+            "height": "178",
+            "role": "Right Winger"
+        },
+        {
+            "number": "21",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/370846-1574781500.jpg?lm=1",
+            "name": "Timothy Weah",
+            "dob": "2000-2-22",
+            "club": "LOSC Lille",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/1082.png?lm=1529521041",
+            "height": "183",
+            "role": "Centre-Forward"
+        },
+        {
+            "number": "24",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/393325-1665128005.jpg?lm=1",
+            "name": "Josh Sargent",
+            "dob": "2000-2-20",
+            "club": "Norwich City",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/1123.png?lm=1655469640",
+            "height": "185",
+            "role": "Centre-Forward"
+        },
+        {
+            "number": "9",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/474249-1645956654.jpg?lm=1",
+            "name": "Jesús Ferreira",
+            "dob": "2000-12-24",
+            "club": "FC Dallas",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/8816.png?lm=1402484487",
+            "height": "175",
+            "role": "Centre-Forward"
+        },
+        {
+            "number": "19",
+            "img": "https://img.a.transfermarkt.technology/portrait/medium/315291-1665561098.png?lm=1",
+            "name": "Haji Wright",
+            "dob": "1998-3-27",
+            "club": "Antalyaspor",
+            "clubImg": "https://tmssl.akamaized.net/images/wappen/verysmall/589.png?lm=1473110173",
+            "height": "193",
+            "role": "Centre-Forward"
+        }
+    ]
+}
